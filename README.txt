@@ -1,0 +1,1 @@
+This project is test Django only for me and my amsll project
